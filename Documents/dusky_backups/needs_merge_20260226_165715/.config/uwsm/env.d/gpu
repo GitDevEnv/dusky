@@ -1,0 +1,11 @@
+# -----------------------------------------------------------------
+# UWSM GPU Config | Mode: INTEL_ONLY | Thursday 26 February 2026 04:45:26 PM IST
+# -----------------------------------------------------------------
+export ELECTRON_OZONE_PLATFORM_HINT=auto
+export MOZ_ENABLE_WAYLAND=1
+
+# Hyprland GPU Priority (First = Compositor)
+export AQ_DRM_DEVICES="/dev/dri/card1"
+
+# --- Intel ---
+export LIBVA_DRIVER_NAME=iHD

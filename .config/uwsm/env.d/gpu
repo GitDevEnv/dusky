@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------
-# UWSM GPU Config | Mode: INTEL_ONLY | Thursday 26 February 2026 01:01:41 PM IST
+# UWSM GPU Config | Mode: INTEL_ONLY | Friday 27 February 2026 11:10:26 PM IST
 # -----------------------------------------------------------------
 export ELECTRON_OZONE_PLATFORM_HINT=auto
 export MOZ_ENABLE_WAYLAND=1
